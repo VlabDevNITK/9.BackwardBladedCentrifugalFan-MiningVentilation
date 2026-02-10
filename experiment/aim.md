@@ -1,1 +1,1 @@
-### Aim of the experiment
+To draw the characteristics curve of backward bladed centrifugal fan.

@@ -2,38 +2,106 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "During development of mine, operating points should preferably lie___________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Left of the peak of the efficiency curve",
+        "b": "Right of the peak of the efficiency curve",
+        "c": "Above of the peak of efficiency curve",
+        "d": "Independent of the condition of mine"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following statement is incorrect?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Operating point must lie right to the stall point for better performance of fan",
+        "b": "Operating point must lie left to the stall point for better performance of fan",
+        "c": "Stall point is the point of reverse flexure",
+        "d": "At stall point, fluctuations of air velocity of fan occur"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "If the impeller diameter of fan and air density is assumed to be constant and n is rotational speed of fan, P is fan drift pressure. Which of the following is correct?",
+      "answers": {
+        "a": "P ∝ n",
+        "b": "P ∝ 1/n",
+        "c": "P ∝ n<sup>2</sup>",
+        "d": "P ∝ 1/n<sup>2</sup>"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "For varying impeller diameter of a fan but with constant speed and air density",
+      "answers": {
+        "a": "Quantity varies as the cube of the impeller diameter",
+        "b": "Pressure varies as the square of the impeller diameter",
+        "c": "Power varies as the fifth power of the impeller diameter",
+        "d": "Efficiency is not constant"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Air flow of a fan do not depend on________",
+      "answers": {
+        "a": "Rotational speed of fan",
+        "b": "Impeller diameter",
+        "c": "Air density",
+        "d": "Fan drift pressure"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "What is Air Power?",
+      "answers": {
+        "a": "Efficiency x Input power of fan",
+        "b": "Pressure x Air flow",
+        "c": "Pressure x (Air flow)<sup>2</sup>",
+        "d": "Both a & b"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
     }
   ]
 }
